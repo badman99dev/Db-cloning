@@ -4,7 +4,7 @@ import time
 import os
 from flask import Flask, render_template_string, redirect
 
-# --- ⚙️ DATABASE CONFIGURATION ---
+# -- ⚙️ DATABASE CONFIGURATION ---
 
 # 1. SOURCE (OLD - Wasmer_hub)
 SRC_CONFIG = {
